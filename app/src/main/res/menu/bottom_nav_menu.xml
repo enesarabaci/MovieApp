@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trendsFragment"
+        android:icon="@drawable/ic_baseline_movie_24"
+        android:title="@string/trends" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/savedFragment"
+        android:icon="@drawable/ic_baseline_library_add_check_24"
+        android:title="@string/favorites" />
+
+</menu>
